@@ -11,13 +11,14 @@ To start excercising, fork this repository to your github profile and start by r
  1. Why React
  2. The basics of React
  3. Modern JavaScript in action
- 4. State Management
- 5. Client-side Routing
- 6. Asynchronous
- 7. Interacting with REST API
- 8. Solving various complex real-world case problems
- 9. Rapid deployment with Netlify
- 10. Webpack, Babel, and basic knowledge of web bundling
+ 4. CSS in JS!
+ 5. State Management
+ 6. Client-side Routing
+ 7. Asynchronous
+ 8. Interacting with REST API
+ 9. Solving various complex real-world case problems
+ 10. Rapid deployment with Netlify
+ 11. Webpack, Babel, and basic knowledge of web bundling
 
 ## I don't like this, where should i submit feedback
 
